@@ -23,7 +23,6 @@ device register algorithm generate, x-Ladon, x-Argus, x-Gorgon, x-Khronos, api s
 21. resolve captcha
 22. create accounts
 
-
 ### Latest version available for testing 
 
 ### contact me **Contact for api :** [https://t.me/bloodyev](https://t.me/bloodyev)
