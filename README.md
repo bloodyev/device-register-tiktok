@@ -1,4 +1,5 @@
 # device-register-tiktok
+
 device register algorithm generate, x-Ladon, x-Argus, x-Gorgon, x-Khronos, api source
 1. login to the user by email and username
 2. register new device
